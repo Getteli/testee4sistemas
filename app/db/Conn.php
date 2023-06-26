@@ -1,7 +1,7 @@
 <?php
     $servername = "localhost"; 
-    $user_db = "getteli";
-    $pass = "0505getteli";
+    $user_db = "nomeusuario";
+    $pass = "senhamyql";
     $dbname = "database_testee4sistemas";
 
     try
